@@ -224,7 +224,11 @@ Client sẽ chạy tại `http://localhost:5001`
 - **Sinh key thủ công**: Nhấn "Generate New Keys"
 - **Xóa lịch sử**: Nhấn "Clear Key History"
 - **Refresh server key**: Nhấn "Refresh Server Key"
-
+## Demo hệ thống
+- https://github.com/thaiduis/Truyen_file_nhac_ban_quyen/blob/main/demo_client.png
+- https://github.com/thaiduis/Truyen_file_nhac_ban_quyen/blob/main/demo_client2.png
+- https://github.com/thaiduis/Truyen_file_nhac_ban_quyen/blob/main/demo_server.png
+- https://github.com/thaiduis/Truyen_file_nhac_ban_quyen/blob/main/demo_server2.png
 ## ⚙️ Cấu hình
 
 File `config.py` chứa tất cả cấu hình (TỐI ƯU HÓA):
