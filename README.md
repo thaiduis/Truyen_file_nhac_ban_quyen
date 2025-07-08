@@ -436,8 +436,6 @@ Dự án này được phát triển cho mục đích học tập và nghiên c�
 
 ---
 
-**⚠️ Lưu ý**: Đây là hệ thống demo cho mục đích học tập. Trong production, hãy sử dụng các thuật toán mã hóa hiện đại hơn như AES-256 và RSA-2048/4096.
-
 ## 🎯 Tính năng nổi bật
 
 ✅ **Mã hóa bảo mật cao**: Triple DES + RSA + Hybrid Encryption  
